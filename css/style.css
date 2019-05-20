@@ -542,6 +542,10 @@ h1, h2, h3, h4, h5, h6, p, a, ul {
 	top: 115px;
 }
 
+.dados {
+	margin-top: 20px;
+}
+
 .pto h3 {
 	font-size: 24px;
 }
@@ -564,7 +568,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul {
 
 .pto i {
 	position: absolute;
-	top: 56px;
+	top: 10px;
 	left: 220px;
 	font-size: 30px;
 	color: #d03c3a;
@@ -586,7 +590,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul {
 	height: 260px;
 	border-radius: 5px;
 	position: absolute;
-	top: -80px;
+	top: -120px;
 }
 
 .atd img {
@@ -620,7 +624,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul {
 	height: 260px;
 	border-radius: 5px;
 	position: absolute;
-	top: -80px;
+	top: -120px;
 	right: 10px;
 }
 
@@ -676,7 +680,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul {
 	border: 1px solid #dcdcdc;
 	border-radius: 5px;
 	position: absolute;
-	top: 105px;
+	top: 65px;
 	padding-left: 40px;
 }
 
@@ -800,7 +804,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul {
 .footer p {
 	text-align: center;
 	position: absolute;
-	bottom: -430px;
+	bottom: -410px;
 	color: #888;
 	font-size: 14px;
 }
